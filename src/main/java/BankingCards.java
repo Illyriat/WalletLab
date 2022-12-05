@@ -1,4 +1,5 @@
-public class BankingCards {
+public abstract class BankingCards {
+
     private String cardNumber;
     private String expiryDate;
     private int securityNumber;
