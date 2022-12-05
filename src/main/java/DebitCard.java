@@ -1,4 +1,4 @@
-public class DebitCard extends BankingCards implements iScan{
+public class DebitCard extends BankingCards{
 
     private int sortCode;
     private int accountNumber;

@@ -1,4 +1,4 @@
-public class CreditCard extends BankingCards implements iScan{
+public class CreditCard extends BankingCards{
 
 
     public CreditCard(String cardNumber, String expiryDate, int securityNumber) {

@@ -1,4 +1,4 @@
-public abstract class BankingCards {
+public abstract class BankingCards implements iScan{
 
     private String cardNumber;
     private String expiryDate;
